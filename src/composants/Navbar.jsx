@@ -26,7 +26,6 @@ const Navbar = () => {
             </button>
           </div>
 
-          {/* Liens de navigation */}
           <div
             className={`md:flex items-center space-x-8 ${
               menuOuvert ? "block" : "hidden"

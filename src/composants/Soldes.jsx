@@ -16,7 +16,6 @@ const Soldes = () => {
   return (
     <div className="w-full bg-[#F3F4F6] py-8">
       <div className="max-w-[1140px] mx-auto px-4">
-        {/* En-tête */}
         <div className="flex justify-between items-center mb-6">
           <h2 className="text-2xl font-bold">EN SOLDES</h2>
           <Link
